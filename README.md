@@ -37,7 +37,7 @@ Une application mobile de mise en relation entre sportifs et coachs professionne
 
 ---
 
-### 🌐 Développement Web Fullstack (MEVN Stack)
+### 🌐 Développement Web Fullstack
 
 #### 🚀 [The Unnecessary Complaint Registry](https://github.com/PaulGournay/The_Unnecessary_Complaint_Registry)
 Une plateforme web interactive et collaborative développée en équipe.
